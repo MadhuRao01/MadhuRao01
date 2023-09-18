@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadhuRao01
+- 👋 Hi, I’m Madhu Yadav
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Data Science and Business Analytics
 - 💞️ I’m looking to collaborate on ...
